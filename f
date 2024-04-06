@@ -1,1 +1,1 @@
-https://sub3.qingze-quick.top/api/v1/client/subscribe?token=95ea2915837bd94d126e8f404c1a51d4
+https://lbxjc.store/api/v1/client/subscribe?token=9c912a149ea2c43a9215a03b667950cd
