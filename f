@@ -1,1 +1,9 @@
-https://lbxjc.store/api/v1/client/subscribe?token=9c912a149ea2c43a9215a03b667950cd
+https://fs1231231c121.cdn.22.jiacdnd123456789.com/answer/land?token=a552ae1abb9d33c073b5d0a5d677919f
+
+先点击订阅分组 
+然后看到订阅分组设置
+点添加
+然后可选地址填上面那个连接
+别名你自己选然后点确定
+然后你看到老黄牛旁边多了一个 你起的组名 然后点进去
+然后点订阅分组 更新当前订阅(不通过代理)
